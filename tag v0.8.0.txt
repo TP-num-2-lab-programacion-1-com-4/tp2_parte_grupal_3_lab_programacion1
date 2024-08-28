@@ -1,0 +1,1 @@
+Se agrega un tag al commit actual con el comando git tag
